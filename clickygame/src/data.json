@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/babyboss.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/dunder-mifflin-negotiation-toby-flenderson-michael-scott-scranton.jpg.",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/nose-rainn-wilson-head-cheek-dwight-schrute.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/said-the-actress-to-bishop-michael-scott-jim-halpert-office-scranton.jpg",
+      "clicked": false
+    },
+   
+    {
+      "id": 5,
+      "image": "/assets/images/theoffice.jpeg",
+      "clicked": false
+    }
+    
+  ]
