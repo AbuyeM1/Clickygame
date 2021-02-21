@@ -24,6 +24,16 @@
       "id": 5,
       "image": "/assets/images/theoffice.jpeg",
       "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/PeterGriffin.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/stewie.jpeg",
+      "clicked": false
     }
     
   ]
