@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/babyboss.jpeg",
+      
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/Heisenberg.jpeg",
+      
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/dwight-schrute.jpg",
+     
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/michael-scott.jpg",
+    
+    },
+   
+    {
+      "id": 5,
+      "image": "/assets/images/moana-cartoon-png.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/PeterGriffin.png",
+      
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/simpsons.jpeg",
+      
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/stewie.jpeg",
+     
+    }
+    
+  ]
