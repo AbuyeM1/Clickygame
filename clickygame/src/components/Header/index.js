@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="header">
       <h1>Clicky Game!</h1>
-      <h2>Click on an image to get points, just click once!</h2>
+      <h2>Click on an image to get points!</h2>
     </header>
   );
 }
