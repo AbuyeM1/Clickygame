@@ -20,7 +20,7 @@
 
 
 ## Deployed Link
-* [Deploy link] 
+* [Deploy link] (https://abuyem1.github.io/Clicky-Game/)
 
 ## Technonlogy Use
 
