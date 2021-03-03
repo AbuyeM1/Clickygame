@@ -1,28 +1,28 @@
 [
     {
       "id": 1,
-      "image": "../public/assets/images/babyboss.jpeg",
+      "image": "./assets/images/babyboss.jpeg",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "../public/assets/images/Heisenberg.jpeg",
+      "image": "./assets/images/Heisenberg.jpeg",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "/assets/images/dwight-schrute.jpg",
+      "image": "./assets/images/dwight-schrute.jpg",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "/assets/images/michael-scott.jpg",
+      "image": "./assets/images/michael-scott.jpg",
       "clicked": false
     },
    
     {
       "id": 5,
-      "image": "/assets/images/moana-cartoon-png.png",
+      "image": "./assets/images/moana-cartoon-png.png",
       "clicked": false
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "id": 7,
-      "image": "/assets/images/simpsons.jpeg",
+      "image": "./assets/images/simpsons.jpeg",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "/assets/images/stewie.jpeg",
+      "image": "./assets/images/stewie.jpeg",
       "clicked": false
     }
     
