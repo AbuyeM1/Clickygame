@@ -1,6 +1,6 @@
 {
   "name": "clickygame",
-  "honepage": "https://abuyem1.github.io/Clickygame/",
+  "homepage": "https://abuyem1.github.io/Clickygame/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
