@@ -27,7 +27,7 @@
     },
     {
       "id": 6,
-      "image": "/assets/images/PeterGriffin.png",
+      "image": "./assets/images/PeterGriffin.png",
       "clicked": false
     },
     {
