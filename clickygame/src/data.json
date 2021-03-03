@@ -1,12 +1,12 @@
 [
     {
       "id": 1,
-      "image": "/assets/images/babyboss.jpeg",
+      "image": "../public/assets/images/babyboss.jpeg",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "/assets/images/Heisenberg.jpeg",
+      "image": "../public/assets/images/Heisenberg.jpeg",
       "clicked": false
     },
     {
