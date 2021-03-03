@@ -1,43 +1,43 @@
 [
     {
       "id": 1,
-      "image": "./src/assets/images/babyboss.jpeg",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.46rloZ2nINAtUfg4rAuwXwHaFj&pid=Api&P=0&w=160&h=120",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "./src/assets/images/Heisenberg.jpeg",
+      "image": "http://www.geocities.ws/gabrudos/pics/homerface.jpg",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "./src/assets/images/dwight-schrute.jpg",
+      "image": "https://i.imgflip.com/2/qqs09.jpg",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "./src/assets/images/michael-scott.jpg",
+      "image": "https://vignette.wikia.nocookie.net/theoffice/images/f/f1/Michael.jpg/revision/latest/scale-to-width-down/150?cb=20170724043334",
       "clicked": false
     },
    
     {
       "id": 5,
-      "image": "./src/assets/images/moana-cartoon-png.png",
+      "image": "https://i1.wp.com/drawcentral.com/wp-content/uploads/2018/12/How-To-Draw-Moana-Main.jpg?resize=150%2C150&ssl=1",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "./src/assets/images/PeterGriffin.png",
+      "image": "https://vignette.wikia.nocookie.net/parody/images/1/1b/Peter_Griffin_in_Family_Guy.jpg/revision/latest/scale-to-width-down/162?cb=20151128224031",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "./src/assets/images/simpsons.jpeg",
+      "image": "https://s-cdn.serienjunkies.de/TheSimpsons/bart-simpson.jpg",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "./src/assets/images/stewie.jpeg",
+      "image": "https://vignette.wikia.nocookie.net/familyguy/images/0/00/Stewie-04.jpg/revision/latest/scale-to-width-down/181?cb=20170803145039&path-prefix=de",
       "clicked": false
     }
     
