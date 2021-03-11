@@ -36,7 +36,7 @@ class App extends Component {
             ? this.state.currentScore
             : this.state.highScore,
         currentScore: 0,
-        note: "nope!",
+        note: "Nope!",
       });
     } else {
       const newCardsList = this.state.guessedCards.filter(
@@ -71,7 +71,6 @@ class App extends Component {
             />
           ))}
         </Game>
-        {/* <Footer /> */}
       </Wrapper>
     );
   }
