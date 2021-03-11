@@ -18,9 +18,9 @@
 
 The web app has 8 images which is clicked by user to play the game. In order to achieve the highest possible score, they must click each image only once. If an image is clicked twice, the game resets.
 
-## Video
+## Image
 
-![Video](./Clickygame/src/Scrclickygamepic.png)
+![image](./Clickygame/src/Scrclickygamepic.png)
 
 ## Deployed Link
 
