@@ -18,15 +18,15 @@
 
 The web app has 8 images which is clicked by user to play the game. In order to achieve the highest possible score, they must click each image only once. If an image is clicked twice, the game resets.
 
-## Image
+## Video
 
-![Vedio](./Clickygame/src/clickygames.gif)
+![Video](./Clickygame/src/clickygames.gif)
 
 ## Deployed Link
 
 - [Deploy link](https://abuyem1.github.io/Clickygame/)
 
-## Technonlogy Use
+## Technonlogy Uses
 
 - React
 - NodeJS
