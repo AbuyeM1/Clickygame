@@ -1,0 +1,15 @@
+body {
+  background: #f6fcf8;
+  color: #3a1d15;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.container {
+  margin: 20px;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.footer {
+  background: red;
+}

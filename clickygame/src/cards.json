@@ -2,50 +2,49 @@
     {
       "id": 1,
       "name": "cleveland",
-      "image": "https://tse1.mm.bing.net/th?id=OIP.46rloZ2nINAtUfg4rAuwXwHaFj&pid=Api&P=0&w=160&h=120",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.46rloZ2nINAtUfg4rAuwXwHaFj&pid=Api&P=0&w=160&h=120"
       
     },
     {
       "id": 2,
       "name": "Dewit",
-      "image": "http://www.geocities.ws/gabrudos/pics/homerface.jpg",
+      "image": "http://www.geocities.ws/gabrudos/pics/homerface.jpg"
       
     },
     {
       "id": 3,
       "name": "simpson",
-      "image": "https://i.imgflip.com/2/qqs09.jpg",
+      "image": "https://i.imgflip.com/2/qqs09.jpg"
      
     },
     {
       "id": 4,
       "name": "Michael",
-      "image": "https://vignette.wikia.nocookie.net/theoffice/images/f/f1/Michael.jpg/revision/latest/scale-to-width-down/150?cb=20170724043334",
+      "image": "https://vignette.wikia.nocookie.net/theoffice/images/f/f1/Michael.jpg/revision/latest/scale-to-width-down/150?cb=20170724043334"
       
     },
-   
     {
       "id": 5,
       "name": "Moana",
-      "image": "https://i1.wp.com/drawcentral.com/wp-content/uploads/2018/12/How-To-Draw-Moana-Main.jpg?resize=150%2C150&ssl=1",
+      "image": "https://i1.wp.com/drawcentral.com/wp-content/uploads/2018/12/How-To-Draw-Moana-Main.jpg?resize=150%2C150&ssl=1"
      
     },
     {
       "id": 6,
       "name": "Peter",
-      "image": "https://vignette.wikia.nocookie.net/parody/images/1/1b/Peter_Griffin_in_Family_Guy.jpg/revision/latest/scale-to-width-down/162?cb=20151128224031",
+      "image": "https://vignette.wikia.nocookie.net/parody/images/1/1b/Peter_Griffin_in_Family_Guy.jpg/revision/latest/scale-to-width-down/162?cb=20151128224031"
    
     },
     {
       "id": 7,
       "name": "Bart",
-      "image": "https://s-cdn.serienjunkies.de/TheSimpsons/bart-simpson.jpg",
+      "image": "https://s-cdn.serienjunkies.de/TheSimpsons/bart-simpson.jpg"
      
     },
     {
       "id": 8,
       "name": "Stewie",
-      "image": "https://vignette.wikia.nocookie.net/familyguy/images/0/00/Stewie-04.jpg/revision/latest/scale-to-width-down/181?cb=20170803145039&path-prefix=de",
+      "image": "https://vignette.wikia.nocookie.net/familyguy/images/0/00/Stewie-04.jpg/revision/latest/scale-to-width-down/181?cb=20170803145039&path-prefix=de"
      
     }
     
