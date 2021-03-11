@@ -1,0 +1,11 @@
+.nav {
+  background: linear-gradient(to right, #429ed3, #f6fcf8);
+}
+
+.nav-text {
+  margin: 0px 5%;
+  padding: 10px 0px;
+  font-size: 1.5em;
+  color: #130c0a;
+  font-family: "Courier New", Courier, monospace;
+}
