@@ -6,21 +6,34 @@
 
 - [Deployed Link](#deployed-link)
 
-- [License](#license)
-
 - [TechnonlogyUse](#Technonlogy-Use)
+
+- [License](#License)
 
 - [Question](#Question)
 
+- [Acknowledgments](#Acknowledgments)
+
 ## Description
+
+The web app has 8 images which is clicked by user to play the game. In order to achieve the highest possible score, they must click each image only once. If an image is clicked twice, the game resets.
 
 ## Image
 
+- ![Image](Clickygame/src/assets/images/clickygame.png)
+
 ## Deployed Link
 
-- [Deploy link] ()
+- [Deploy link](https://abuyem1.github.io/Clickygame/)
 
 ## Technonlogy Use
+
+- React
+- NodeJS
+- Bootstrap
+- JavaScript
+- HTML5
+- CSS
 
 ## License
 
