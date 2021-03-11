@@ -20,7 +20,7 @@ The web app has 8 images which is clicked by user to play the game. In order to 
 
 ## Image
 
-- ![Vedio](./Clickygame/src/clickygames.gif)
+![Vedio](./Clickygame/src/clickygames.gif)
 
 ## Deployed Link
 
