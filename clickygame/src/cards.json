@@ -46,6 +46,30 @@
       "name": "Stewie",
       "image": "https://vignette.wikia.nocookie.net/familyguy/images/0/00/Stewie-04.jpg/revision/latest/scale-to-width-down/181?cb=20170803145039&path-prefix=de"
      
+    },
+    {
+      "id": 9,
+      "name": "Joker",
+      "image": "https://66.media.tumblr.com/80a00961fcf300e41ac393d23d0e7730/afdbdc66c42a87cf-51/s640x960/7d4fcb8553735a15acae431a24a35472f947ce12.jpg"
+     
+    },
+    {
+      "id": 10,
+      "name": "Panda",
+      "image": "https://i.pinimg.com/originals/3b/67/d7/3b67d7012adb12edf178c367d685802d.jpg"
+     
+    },
+    {
+      "id": 11,
+      "name": "Pets",
+      "image": "https://vignette3.wikia.nocookie.net/secretlifeofpets/images/4/4e/TSLOPChloe.png/revision/latest?cb=20170221021935"
+     
+    },
+    {
+      "id": 12,
+      "name": "Angry Bird",
+      "image": "https://f0.pngfuel.com/png/856/1021/red-angry-bird-character-illustration-png-clip-art.png"
+     
     }
     
   ]
