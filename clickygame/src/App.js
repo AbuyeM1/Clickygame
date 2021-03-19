@@ -10,9 +10,9 @@ import cards from "./cards.json";
 class App extends Component {
   state = {
     cards,
-    guessedCards: cards,
-    currentScore: 0,
-    highScore: 0,
+    displayCards: cards,
+    score: 0,
+    topScore: 0,
     note: "Don't click the same photo twice or you lose.",
   };
 
@@ -24,28 +24,28 @@ class App extends Component {
 
   cardClick = (id) => {
     console.log(this.state.cards);
-    console.log(this.state.guessedCards);
+    console.log(this.state.displayCards);
 
-    const clickedCards = this.state.guessedCards.find((card) => card.id === id);
+    const clickedCards = this.state.displayCards.find((card) => card.id === id);
 
     if (clickedCards === undefined) {
       this.setState({
-        guessedCards: cards,
-        highScore:
-          this.state.currentScore > this.state.highScore
-            ? this.state.currentScore
-            : this.state.highScore,
-        currentScore: 0,
+        displayCards: cards,
+        topScore:
+          this.state.score > this.state.topScore
+            ? this.state.score
+            : this.state.topScore,
+        score: 0,
         note: "Nope!",
       });
     } else {
-      const newCardsList = this.state.guessedCards.filter(
+      const newCardsList = this.state.displayCards.filter(
         (card) => card.id !== id
       );
 
       this.setState({
-        guessedCards: newCardsList,
-        currentScore: this.state.currentScore + 1,
+        displayCards: newCardsList,
+        score: this.state.score + 1,
         note: "Good guess.",
       });
     }
@@ -55,10 +55,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Nav
-          currentScore={this.state.currentScore}
-          highScore={this.state.highScore}
-        />
+        <Nav score={this.state.score} topScore={this.state.topScore} />
         <Header note={this.state.note} />
         <Game>
           {this.state.cards.map((card) => (
